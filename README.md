@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi I'm gold-Kai 👋
 
-<!--
-**gold-Kai/gold-Kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working in TianJin China.
+- 🌱 I’m currently using JS & TS。
+- 📫 How to reach me: jinkaiem@163.com
+- 😄 Pronouns: shuan
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/anncwb?label=follow%20me&style=social)](https://github.com/gold-Kai)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/anncwb/count.svg" />
+</p>
