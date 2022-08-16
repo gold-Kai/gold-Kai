@@ -4,7 +4,7 @@
 - 🌱 I’m currently using JS & TS。
 - 📫 How to reach me: jinkaiem@163.com
 - 😄 Pronouns: shuan
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/anncwb?label=follow%20me&style=social)](https://github.com/gold-Kai)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/gold-Kai?label=follow%20me&style=social)](https://github.com/gold-Kai)
 
 <p align="center">
   Visitor count<br>
